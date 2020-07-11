@@ -1,0 +1,17 @@
+{
+  "name": "focusrite",
+  "version": "1.0.0",
+  "description": "Focusrite Control API",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "focusrite",
+    "control",
+    "software",
+    "api"
+  ],
+  "author": "Mathieu Colmon (usp-3.fr)",
+  "license": "ISC"
+}
