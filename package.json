@@ -1,6 +1,6 @@
 {
   "name": "focusrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Focusrite Control API",
   "main": "main.js",
   "scripts": {
@@ -13,5 +13,13 @@
     "api"
   ],
   "author": "Mathieu Colmon (usp-3.fr)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu2301/Focusrite-Control-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mathieu2301/Focusrite-Control-API/issues"
+  },
+  "homepage": "https://github.com/Mathieu2301/Focusrite-Control-API#readme"
 }

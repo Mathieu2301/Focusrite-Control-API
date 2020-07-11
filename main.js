@@ -15,13 +15,13 @@ module.exports = {
   },
 
   colors: {
-    COLOR_RED: `<set devid="1"><item id="44" value="red"/></set>`,
-    COLOR_AMBER: `<set devid="1"><item id="44" value="amber"/></set>`,
-    COLOR_GREEN: `<set devid="1"><item id="44" value="green"/></set>`,
-    COLOR_LIGHT_BLUE: `<set devid="1"><item id="44" value="light blue"/></set>`,
-    COLOR_BLUE: `<set devid="1"><item id="44" value="blue"/></set>`,
-    COLOR_LIGHT_PINK: `<set devid="1"><item id="44" value="light pink"/></set>`,
-    COLOR_PINK: `<set devid="1"><item id="44" value="pink"/></set>`,
+    RED: `<set devid="1"><item id="44" value="red"/></set>`,
+    AMBER: `<set devid="1"><item id="44" value="amber"/></set>`,
+    GREEN: `<set devid="1"><item id="44" value="green"/></set>`,
+    LIGHT_BLUE: `<set devid="1"><item id="44" value="light blue"/></set>`,
+    BLUE: `<set devid="1"><item id="44" value="blue"/></set>`,
+    LIGHT_PINK: `<set devid="1"><item id="44" value="light pink"/></set>`,
+    PINK: `<set devid="1"><item id="44" value="pink"/></set>`,
   },
 
   createFakeServer(serverResponses = [], onData = (data = '') => data) {
